@@ -1,5 +1,5 @@
-## information
-This is an prototype of backend server with Microservice architecture made using Go (go.mod) and frontend made using react. this project just a template and we can customize what bussines needed, and than all services will run on docker containers for simplify develop, deploy and testing
+## About
+Repository for share document about building backend service with Microservice Architecture using Go.
 
-## url repository and documentation
+## Documents
 https://github.com/go-microservices-project
